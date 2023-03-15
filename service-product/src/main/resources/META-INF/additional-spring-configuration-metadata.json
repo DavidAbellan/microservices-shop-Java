@@ -1,0 +1,112 @@
+{"properties": [
+  {
+    "name": "datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.url'"
+  },
+  {
+    "name": "jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.show-sql'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "datasource.platform",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.platform'"
+  },
+  {
+    "name": "datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.username'"
+  },
+  {
+    "name": "datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.password'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "jpa.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.database-platform'"
+  },
+  {
+    "name": "jpa.properties.hibernate.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.show_sql'"
+  },
+  {
+    "name": "jpa.properties.hibernate.use_sql_comments",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.use_sql_comments'"
+  },
+  {
+    "name": "jpa.properties.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.format_sql'"
+  },
+  {
+    "name": "server",
+    "type": "java.lang.String",
+    "description": "A description for 'server'"
+  },
+  {
+    "name": "spring.h2.console",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.h2.console'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "spring.cloud.config.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.enabled'"
+  },
+  {
+    "name": "spring.jpa.hibernate.hbm2ddl.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.hbm2ddl.auto'"
+  }
+]}

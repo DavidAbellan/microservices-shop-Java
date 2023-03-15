@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "spring.cloud.config.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.enabled'"
+  },
+  {
+    "name": "datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.url'"
+  },
+  {
+    "name": "datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driverClassName'"
+  },
+  {
+    "name": "datasource.platform",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.platform'"
+  },
+  {
+    "name": "datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.username'"
+  },
+  {
+    "name": "datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.password'"
+  },
+  {
+    "name": "jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.show-sql'"
+  },
+  {
+    "name": "jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "jpa.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.database-platform'"
+  },
+  {
+    "name": "jpa.properties.hibernate.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.show_sql'"
+  },
+  {
+    "name": "jpa.properties.hibernate.use_sql_comments",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.use_sql_comments'"
+  }
+]}
