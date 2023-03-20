@@ -1,0 +1,31 @@
+server :
+   port : 8094
+
+   
+spring :
+  profiles :
+   active : native  
+  cloud : 
+   config :
+     server :
+       composite :
+         type : native
+         search-locations : 
+           classpath : /shared
+       bootstrap : true
+       git :
+        uri : https://github.com/DavidAbellan/microservices-shop-Java
+        searchPaths : config-data
+        username : ${GIT_USER}
+        password : ${GIT_PASSWORD}
+       
+        
+security :
+  user : 
+    name: root
+    password : s3cr3t
+  ignored : /
+  basic  :
+   enable : false
+  
+        
